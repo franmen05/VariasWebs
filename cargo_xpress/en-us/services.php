@@ -1,7 +1,7 @@
 
-<?php
-include './header.php';
-?>
+<%-
+include('header' );
+%>
 
 
         <!-- subheader begin -->

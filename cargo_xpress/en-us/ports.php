@@ -1,7 +1,7 @@
 
-<?php 
-    include './header.php';
-?>
+<%-
+include('header' );
+%>
         <!-- subheader begin -->
         <section id="subheader" class="page-track no-bottom" data-stellar-background-ratio="0.5">
             <div class="overlay">
@@ -137,9 +137,8 @@
         </div>
         <!-- content close -->
  `
- <?php
-    include './contact_us.php';
-   include './footer.php';
-        
-         ?>
+ <%-
+include('contact_us');
+include('footer');
+%>
         <script src="../js/map-port.js"></script>

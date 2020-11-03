@@ -1,7 +1,7 @@
 
-<?php
-    include './header.php';
-?>
+<%-
+include('header' );
+%>
 <!-- subheader begin -->
 <section id="subheader" class="page-contact no-bottom" data-stellar-background-ratio="0.5">
     <div class="overlay">
@@ -68,8 +68,8 @@
     ?>
 </div>
 <!-- content close -->
-<?php
-include './footer.php';
-?>
+<%-
+include('footer');
+%>?>
 <script src="../js/contact.js"></script>
 <script src="../js/map.js"></script>

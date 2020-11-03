@@ -63,7 +63,7 @@
                          data-speed="800"
                          data-start="1600"
                          data-easing="easeInOutCubic">
-                        <a class="btn btn-slider " href="contact.php">Contactenos</a>&nbsp;&nbsp;<a class="btn btn-sold-slider" href="services.php">Servicios</a>
+                        <a class="btn btn-slider " href="contact.ejs">Contactenos</a>&nbsp;&nbsp;<a class="btn btn-sold-slider" href="services.ejs">Servicios</a>
                     </div>
                 </li>
 
@@ -104,7 +104,7 @@
                          data-speed="800"
                          data-start="1600"
                          data-easing="easeInOutCubic">
-                        <a class="btn btn-slider" href="contact.php">Contactenos</a>&nbsp;&nbsp;<a class="btn btn-border-slider" href="services.php">Servicios</a>
+                        <a class="btn btn-slider" href="contact.ejs">Contactenos</a>&nbsp;&nbsp;<a class="btn btn-border-slider" href="services.ejs">Servicios</a>
                     </div>
                 </li>
                 
@@ -163,7 +163,7 @@
                          data-speed="800"
                          data-start="1600"
                          data-easing="easeInOutCubic">
-                        <a class="btn btn-slider " href="contact.php">Contactenos</a>&nbsp;&nbsp;<a class="btn btn-sold-slider" href="services.php">Servicios</a>
+                        <a class="btn btn-slider " href="contact.ejs">Contactenos</a>&nbsp;&nbsp;<a class="btn btn-sold-slider" href="services.ejs">Servicios</a>
                     </div>
                 </li>
    
@@ -184,7 +184,7 @@
                 <h2 class="wow fadeIn" data-wow-delay=".2s">Gestiones Aduanales</h2>
                 <!--<p class="wow fadeIn" data-wow-delay=".3s">The word cargo refers in particular to goods or produce being conveyed generally for commercial gain by ship, boat, or aircraft, although the term is now often extended to cover all types of freight, including that carried by train, van, truck, or container.</p>-->
                 <div class="divider-single"></div>
-                <a href="services.php" class="btn-border-light wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".3s">Ir a Servicios</a>
+                <a href="services.ejs" class="btn-border-light wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".3s">Ir a Servicios</a>
             </div>
         </div>
 
@@ -195,7 +195,7 @@
                 <h2 class="wow fadeIn" data-wow-delay=".4s">Carga Aérea</h2>
                 <!--<p class="wow fadeIn" data-wow-delay=".5s">The word cargo refers in particular to goods or produce being conveyed generally for commercial gain by ship, boat, or aircraft, although the term is now often extended to cover all types of freight, including that carried by train, van, truck, or container. </p>-->
                 <div class="divider-single"></div>
-                <a href="services.php" class="btn-border-light wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".3s">Ir a Servicios</a>
+                <a href="services.ejs" class="btn-border-light wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".3s">Ir a Servicios</a>
             </div>
         </div>
 
@@ -204,7 +204,7 @@
                 <h2 class="wow fadeIn" data-wow-delay=".6s">Carga Marítima </h2>
                 <!--<p class="wow fadeIn" data-wow-delay=".7s">Expertos en manejo de carga aérea, marítima y terrestre, pero sobre todo garantizándoles rapidez y seguridad a la hora de confiarnos su carga. </p>-->
                 <div class="divider-single"></div>
-                <a href="services.php" class="btn-border-light wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".3s">Ir a Servicios</a>
+                <a href="services.ejs" class="btn-border-light wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".3s">Ir a Servicios</a>
             </div>
         </div>
     </div>
@@ -393,9 +393,10 @@
     </section>
     <!-- section close -->
 
-<!--<?php-->
-<!--    include './partners.php';-->
-<!--?>-->
+<%-
+    include('partners');
+%>
+
 
 </div>
 <%- include('contact_us'); %>

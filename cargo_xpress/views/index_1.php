@@ -1,7 +1,7 @@
 
-<?php 
-include './header.php';
-?>
+<%-
+include('header');
+%>
        
 
         <!-- slider -->
@@ -643,6 +643,6 @@ include './header.php';
             </div>
 
         </div>
- <?php
-        include './footer.php';
-         
+ <%-
+include('footer');
+%>
