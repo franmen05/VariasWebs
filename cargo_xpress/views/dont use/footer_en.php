@@ -21,9 +21,9 @@
                     <div class="col-md-4">
                         <h3>Location</h3>
                         <div class="tiny-border"></div>
-                        Plaza el Flamboyán , N0.7 ,2do nivel <br>
-                        aut. las Américas km 25, <br>
-                        La Caleta ,Boca Chica  R.D<br>
+                        Dirreccion Princial <br>
+                        Avenida Principal, <br>
+                        Local, Cuidad  R.D<br>
 
 
                         <div class="divider-single"></div>
