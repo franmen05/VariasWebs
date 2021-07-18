@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cargo_xpress/cargo_xpress.iml" filepath="$PROJECT_DIR$/cargo_xpress/cargo_xpress.iml" />
       <module fileurl="file://$PROJECT_DIR$/demeweb.iml" filepath="$PROJECT_DIR$/demeweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/losrosantes_web/losrosantes_web.iml" filepath="$PROJECT_DIR$/losrosantes_web/losrosantes_web.iml" />
     </modules>
   </component>
 </project>
