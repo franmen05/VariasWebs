@@ -1,0 +1,672 @@
+Uri: http://datrics.themetags.com/index.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\index.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/img/bg-illustration.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\bg-illustration.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-bottom-shape.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-bottom-shape.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/slider-img-2.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\slider-img-2.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/favicon.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Open+Sans:400,600&display=swap
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\themify-icons.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/all.min.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\all.min.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/animate.min.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\animate.min.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/jquery.mb.YTPlayer.min.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\jquery.mb.YTPlayer.min.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/style.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\style.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/css/responsive.css
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\css\responsive.css
+Content Type: text/css
+
+Uri: http://datrics.themetags.com/index-2.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\index-2.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/index-3.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\index-3.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/index-4.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\index-4.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/index-5.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\index-5.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/index-6.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\index-6.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/about-us.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\about-us.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/services.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\services.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/team.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\team.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/team-single.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\team-single.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/project-details.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\project-details.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/services-details.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\services-details.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/basic-login.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\basic-login.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/login.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\login.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/basic-sign-up.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\basic-sign-up.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/sign-up.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\sign-up.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/password-reset.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\password-reset.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/change-password.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\change-password.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/download.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\download.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/review.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\review.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/faq.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\faq.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/404.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\404.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/coming-soon.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\coming-soon.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/thank-you.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\thank-you.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/project.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\project.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-default.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-default.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-no-sidebar.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-no-sidebar.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-right-sidebar.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-right-sidebar-2.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-right-sidebar-2.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-single-left-sidebar.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-single-left-sidebar.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/blog-single-right-sidebar.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\blog-single-right-sidebar.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/contact-us.html
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\contact-us.html
+Content Type: text/html
+
+Uri: https://themeforest.net/user/themetags
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\user\themetags.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/img/logo-white.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\logo-white.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/hero-animation-01.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-animation-01.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-single-img-5.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-single-img-5.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-single-img-1.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-single-img-1.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/consult.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\consult.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/machine-learning.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\machine-learning.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/data-analytics.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\data-analytics.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/data-security.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\data-security.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/artificial-intelligence.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\artificial-intelligence.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/internet-things.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\internet-things.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/portfolios/3.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\portfolios\3.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/portfolios/2.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\portfolios\2.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/portfolios/4.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\portfolios\4.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/portfolios/1.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\portfolios\1.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/portfolios/5.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\portfolios\5.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/portfolios/6.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\portfolios\6.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/1.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/2.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/3.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/client-1.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\client-1.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/client-2.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\client-2.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/client-3.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\client-3.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/team-1.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-1.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/team-3.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-3.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/team-2.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-2.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/js/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/popper.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/mixitup.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/wow.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/js/scripts.js
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://datrics.themetags.com/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\fonts\themify.woff
+Content Type: font/woff
+
+Uri: http://datrics.themetags.com/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: http://datrics.themetags.com/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://datrics.themetags.com/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://datrics.themetags.com/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://datrics.themetags.com/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://datrics.themetags.com/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://datrics.themetags.com/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://datrics.themetags.com/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://datrics.themetags.com/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://datrics.themetags.com/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://datrics.themetags.com/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://datrics.themetags.com/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-bg-shape.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/slider-bg-2.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\slider-bg-2.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/slider-bg-1.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\slider-bg-1.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/blog/4.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/5.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/6.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\6.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/dot.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\dot.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/globe-bg.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\globe-bg.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/bg-shape.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/cta-bg.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\cta-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.youtube.com/watch?v=9No-FiEInLA
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\watch.html
+Content Type: text/html
+
+Uri: http://datrics.themetags.com/img/hero-single-img-3.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-single-img-3.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/about-us.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\about-us.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/client-4.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\client-4.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/logo-color.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\logo-color.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/hero-animation-03.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-animation-03.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-bottom-shape-2.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-bottom-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/header-bg-1.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\header-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/grop-shape-3.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\grop-shape-3.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/grop-shape-2.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\grop-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-single-img-6.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-single-img-6.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/combined-shape.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\combined-shape.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/promo-img-1.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\promo-img-1.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/promo-img-2.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\promo-img-2.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/promo-img-3.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\promo-img-3.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/team-4.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-4.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/hero-animation-05.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-animation-05.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/search.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\search.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/about-us-2.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\about-us-2.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/team-6.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-6.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/team-7.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-7.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/team-8.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-8.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/team-5.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\team-5.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/hero-section-bg.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-section-bg.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-animation-04.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-animation-04.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/hero-animation-06.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\hero-animation-06.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/about-1.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\about-1.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/about-2.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\about-2.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/clients-logo-01.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-01.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-02.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-02.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-03.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-03.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-04.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-04.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-05.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-05.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-06.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-06.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-07.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-07.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/clients-logo-08.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\clients-logo-08.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/header-bg-5.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\header-bg-5.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/project-details.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\project-details.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/images.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\images.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/slider-img-1.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\slider-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/ipad-image.png
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\ipad-image.png
+Content Type: image/png
+
+Uri: http://datrics.themetags.com/img/client-5.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\client-5.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/basic.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\basic.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/standard.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\standard.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/unlimited.svg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\unlimited.svg
+Content Type: image/svg+xml
+
+Uri: http://datrics.themetags.com/img/blog/1-w.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\1-w.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/2-w.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\2-w.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/3-w.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\3-w.jpg
+Content Type: image/jpeg
+
+Uri: http://datrics.themetags.com/img/blog/4-w.jpg
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\img\blog\4-w.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.83543450937!2d144.953735315922!3d-37.817323442021234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649:0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sbd!4v1571030260624!5m2!1sen!2sbd
+File Name: C:\Downloaded Web Sites\datrics.themetags.com\maps\embed.html
+Content Type: text/html
+
