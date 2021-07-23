@@ -1,0 +1,324 @@
+Uri: https://www.ros.com.do/
+File Name: C:\Downloaded Web Sites\www.ros.com.do\index.htm
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/carousel/SlideRiesgos.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\carousel\SlideRiesgos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/carousel/SlideSalud.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\carousel\SlideSalud.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/carousel/slideImg.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\carousel\slideImg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/css/flickity.min.css
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\css\flickity.min.css
+Content Type: text/css
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/logo-ros.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\logo-ros.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/css/all.css
+File Name: C:\Downloaded Web Sites\www.ros.com.do\releases\v5.7.2\css\all.css
+Content Type: text/css
+
+Uri: https://www.ros.com.do/riesgos
+File Name: C:\Downloaded Web Sites\www.ros.com.do\riesgos.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/riesgos-individuales
+File Name: C:\Downloaded Web Sites\www.ros.com.do\riesgos-individuales.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/productos-de-afinidad
+File Name: C:\Downloaded Web Sites\www.ros.com.do\productos-de-afinidad.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/salud
+File Name: C:\Downloaded Web Sites\www.ros.com.do\salud.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/salud-internacional
+File Name: C:\Downloaded Web Sites\www.ros.com.do\salud-internacional.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/nosotros
+File Name: C:\Downloaded Web Sites\www.ros.com.do\nosotros.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/contacto
+File Name: C:\Downloaded Web Sites\www.ros.com.do\contacto.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/asistencia
+File Name: C:\Downloaded Web Sites\www.ros.com.do\asistencia.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/rosseguros/
+File Name: C:\Downloaded Web Sites\www.ros.com.do\rosseguros\index.htm
+Content Type: text/html
+
+Uri: https://www.ros.com.do/temporada-activa
+File Name: C:\Downloaded Web Sites\www.ros.com.do\temporada-activa.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/RosSegurosyConsultoria
+File Name: C:\Downloaded Web Sites\www.ros.com.do\RosSegurosyConsultoria.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-PBWXJH9
+File Name: C:\Downloaded Web Sites\www.ros.com.do\ns.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/carousel/riesgos.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\carousel\riesgos.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/carousel/salud.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\carousel\salud.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/huracan.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\huracan.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/combine/7ba8920002631aa309df858b5cacc806-1599862449
+File Name: C:\Downloaded Web Sites\www.ros.com.do\combine\7ba8920002631aa309df858b5cacc806-1599862449.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Archivo:400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\www.ros.com.do\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\www.ros.com.do\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap
+File Name: C:\Downloaded Web Sites\www.ros.com.do\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap
+File Name: C:\Downloaded Web Sites\www.ros.com.do\css-3.css
+Content Type: text/css
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/fonts/icomoon.eot?w2h4sy
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/fonts/icomoon.ttf?w2h4sy
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\fonts\icomoon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/fonts/icomoon.woff?w2h4sy
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/fonts/icomoon.svg?w2h4sy
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/risk-subMenu.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\risk-subMenu.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/health-subMenu.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\health-subMenu.png
+Content Type: image/png
+
+Uri: https://api.whatsapp.com/send?phone=18093500956&text=Saludos, Tengo una pregunta sobre Riesgos Corporativos:
+File Name: C:\Downloaded Web Sites\www.ros.com.do\send.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/logo-risk.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\logo-risk.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/userQuestion.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\userQuestion.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/background/individualRiskBackground.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\background\individualRiskBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=18093500956&text=Saludos, Tengo una pregunta sobre Riesgos Individuales:
+File Name: C:\Downloaded Web Sites\www.ros.com.do\send-1.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/logo-internationalHealth.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\logo-internationalHealth.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/background/affinityBackground.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\background\affinityBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=18093500956&text=Saludos, Tengo una pregunta sobre Productos de Afinidad:
+File Name: C:\Downloaded Web Sites\www.ros.com.do\send-2.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/auto-seguros.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\auto-seguros.png
+Content Type: image/png
+
+Uri: https://api.whatsapp.com/send?phone=18093500956&text=Saludos, Tengo una pregunta sobre Salud Local:
+File Name: C:\Downloaded Web Sites\www.ros.com.do\send-3.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/logo-salud.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\logo-salud.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/wellness.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\wellness.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/logo-inforos.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\logo-inforos.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/background/internationalHealthBackground.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\background\internationalHealthBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://api.whatsapp.com/send?phone=18093500956&text=Saludos, Tengo una pregunta sobre Salud Internacional:
+File Name: C:\Downloaded Web Sites\www.ros.com.do\send-4.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/ventajas-img.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\ventajas-img.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/estructuraBig.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\estructuraBig.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/background/aboutBackground.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\background\aboutBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/documents/CodigoEtica2016_ROS.pdf
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\documents\CodigoEtica2016_ROS.pdf
+Content Type: application/pdf
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/nosotros-logo.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\nosotros-logo.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/CarlosRos.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\CarlosRos.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/RichardRos.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\RichardRos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/LuisRos.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\LuisRos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/premio-calidad.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\premio-calidad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/mayor-productor.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\mayor-productor.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/productor-internacional.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\productor-internacional.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/mayor-categoria.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\mayor-categoria.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/bupa.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\bupa.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/seguros-universal.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\seguros-universal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/banco-reservas.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\banco-reservas.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/world-wide-seguros.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\world-wide-seguros.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/seguros-sura.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\seguros-sura.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/colonial.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\colonial.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.291830416622!2d-69.94303168510142!3d18.470435775526337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eaf89e4835aaaab:0x2d4aa5992f441688!2sAv. Winston Churchill 1020%2C Santo Domingo!5e0!3m2!1ses-419!2sdo!4v1594822681431!5m2!1ses-419!2sdo
+File Name: C:\Downloaded Web Sites\www.ros.com.do\maps\embed.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.2834078085352!2d-68.9665460851019!3d18.42543697688569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eaf54664a7b80e3:0x45b65d0fb33dd230!2sPiso 1 – Departamento 1%2C Avenida Gregorio Luperon 4%2C La Romana 22000!5e0!3m2!1ses-419!2sdo!4v1594822802099!5m2!1ses-419!2sdo
+File Name: C:\Downloaded Web Sites\www.ros.com.do\maps\embed-1.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.8642235215743!2d-70.69538548509006!3d19.461419944801477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eb1c5f4b2a03fe7:0x4a874b3ae37ed5bf!2sDr. Arturo Grullón 31%2C Santiago De Los Caballeros 51000!5e0!3m2!1ses-419!2sdo!4v1594822975643!5m2!1ses-419!2sdo
+File Name: C:\Downloaded Web Sites\www.ros.com.do\maps\embed-2.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.5509185413725!2d-68.4002869004437!3d18.639258217961686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ea8eb74b8f214f1:0xfa90697668bb07fb!2sPlaza San Juan Shopping Center!5e0!3m2!1ses-419!2sdo!4v1594823085715!5m2!1ses-419!2sdo
+File Name: C:\Downloaded Web Sites\www.ros.com.do\maps\embed-3.html
+Content Type: text/html
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/background/fullTimeBackground.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\background\fullTimeBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/LogoRosFullTime.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\LogoRosFullTime.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/full-time-icon-two.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\full-time-icon-two.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/background/seasonsBackground.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\background\seasonsBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/documents/temporadas-de-huracanes.pdf
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\documents\temporadas-de-huracanes.pdf
+Content Type: application/pdf
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/documents/Prevención-huracanes-2020.pdf
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\documents\Prevención-huracanes-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/logos/logo-hurricane.png
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\logos\logo-hurricane.png
+Content Type: image/png
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/imghurricane.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\imghurricane.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ros.com.do/themes/kation-interactive/assets/img/devastation.jpg
+File Name: C:\Downloaded Web Sites\www.ros.com.do\themes\kation-interactive\assets\img\devastation.jpg
+Content Type: image/jpeg
+
